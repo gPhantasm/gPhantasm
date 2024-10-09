@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello!
+
+I am a student currently studying for an undergraduate degree in computer science! 
+
+While this Github is mostly for private repos of my course notes and assignments, there are some cool things like
+
+- amateur [GML hacks](https://github.com/gPhantasm/zeroranger-green-arrange/)
+- a [strange port](https://github.com/EzDzzIt/vsaarch64/tree/main)
+- hopefully more in the future!
 
 <!--
 **gPhantasm/gPhantasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
