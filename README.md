@@ -4,8 +4,8 @@ I am a student currently studying for an undergraduate degree in computer scienc
 
 While this Github is mostly for private repos of my course notes and assignments, there are some cool things like
 
-- amateur [GML hacks](https://github.com/gPhantasm/zeroranger-green-arrange/)
 - a [strange port](https://github.com/EzDzzIt/vsaarch64/tree/main)
+- amateur [GML hacks](https://github.com/gPhantasm/zeroranger-green-arrange/)
 - hopefully more in the future!
 
 If you need to reach me, send me a message on Discord `gooeyphantasm`. 
