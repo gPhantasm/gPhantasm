@@ -2,25 +2,10 @@
 
 I am a student currently studying for an undergraduate degree in computer science!
 
-While this Github is mostly for private repos of my course notes and assignments, there are some cool things like
+While this Github is mostly for private repos of my course notes and assignments, there are still some cool personal projects worth perusing:
 
-- a [strange port](https://github.com/EzDzzIt/vsaarch64/tree/main)
-- amateur [GML hacks](https://github.com/gPhantasm/zeroranger-green-arrange/)
-- hopefully more in the future!
+- [an arm64 port of a strange game](https://github.com/EzDzzIt/vsaarch64)
+- [a little Godot game about little guys](https://github.com/KupaJablek/little_guys)
+- [a robust musicpack for _ZeroRanger_](https://github.com/gPhantasm/zeroranger-green-arrange/tree/main)
 
 If you need to reach me, send me a message on Discord `gooeyphantasm`. 
-
-<!--
-**gPhantasm/gPhantasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
